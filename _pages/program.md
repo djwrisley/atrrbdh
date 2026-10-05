@@ -11,8 +11,6 @@ David Joseph Wrisley
 Master Rare Book and Digital Humanities, [UMLP](https://www.openstreetmap.org/node/13340610978#map=19/47.233729/6.025524), Besançon 2026
 
 
-See the week's learning outcomes [here]()
-
 
 ## Day 1: Monday 19 Oct 2026
 
