@@ -1,9 +1,11 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
+  - title: "Program"
+    url: /program/
+  - title: "Preparation"
+    url: /preparation/
+  - title: "Resources"
+    url: /resources/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
