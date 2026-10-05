@@ -3,13 +3,13 @@ permalink: /program/
 title: "Program"
 ---
 
-# Day by Day Programme
 
 # Critical Approaches to Automatic Text Recognition for the Digital Humanities 
 
 Estelle Guéville  
 David Joseph Wrisley  
 Master Rare Book and Digital Humanities, UMPC, Besançon 2026
+
 
 ## Day 1: Monday 19 Oct 2026
 
