@@ -192,3 +192,5 @@ Discussion points: How well does ATR-created text lend itself to computational f
 
 **900-1200: M2 Student Thesis Topic Presentations, Feedback and General Discussion** 
 
+
+> Want to know how we build this site and how you can also make one to feature your thesis and professional work? Check out a post Wrisley uses with his students [here](https://daahnyuad.github.io/blog/creating-a-static-siteF26/). 
