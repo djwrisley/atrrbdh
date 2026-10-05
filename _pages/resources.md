@@ -5,7 +5,9 @@ title: "Resources"
 
 ## Resources:
 
-Here are some publications we will refer to in the workshop. More can be found at our Zotero library: [ATR for DH](https://www.zotero.org/groups/6465155/atr_htr_for_dh). 
+**Zotero library:** We have put together a Zotero library [ATR\_HTR\_for\_DH](https://www.zotero.org/groups/6465155/atr_htr_for_dh) for the course that contains much more reading material. If you would like to contribute to it, sent a request from your account at Zotero. Other libraries put together by others on the subject include [ATR with LLM](https://www.zotero.org/groups/6308130/atr_with_llm), [ATR History](https://www.zotero.org/groups/5646174/atr_history).
+
+Here are some publications we will refer to in the workshop. 
 
 - Andersdotter, Karolina, and Malin Nauwerck. “Secretaries at Work: Accessing Astrid Lindgren’s Stenographed Manuscripts through Expert Crowdsourcing.” *Digital Humanities in the Nordic and Baltic Countries Publications* 4, no. 1 (2022): 9–22. [https\://doi.org/10.5617/dhnbpub.11271](https://doi.org/10.5617/dhnbpub.11271).  
 - Brumfeld, Ben and Brumfeld, Sara. “How Good HTR is Changing What & How We’re Transcribing.” From the Page \[blog\], March 4, 2026, [https\://content.fromthepage.com/how-good-htr-is-changing-what-how-were-transcribing/](https://content.fromthepage.com/how-good-htr-is-changing-what-how-were-transcribing/)  
@@ -33,3 +35,4 @@ Here are some publications we will refer to in the workshop. More can be found a
 - Tilton, Lauren, David Mimno, and Jessica Marie Johnson, “What Gets Counted: Computational Humanities under Revision”. [https\://dhdebates.gc.cuny.edu/read/ba808f7f-6a3b-4865-8e2a-b0086b29bfa4/section/ff01ed09-fc3f-4403-a1e2-034052cd4d0a\#intro](https://dhdebates.gc.cuny.edu/read/ba808f7f-6a3b-4865-8e2a-b0086b29bfa4/section/ff01ed09-fc3f-4403-a1e2-034052cd4d0a#intro)  
 - Torres Aguilar, Sergio, and Vincent Jolivet. “La reconnaissance de l’écriture pour les manuscrits documentaires du Moyen Âge.” *Journal of Data Mining & Digital Humanities*, Historical Documents and Automatic Text Recognition (December 2023). [https\://doi.org/10.46298/jdmdh.10484](https://doi.org/10.46298/jdmdh.10484).  
 - Wrisley, David Joseph, and Estelle Guéville. *Medieval Manuscripts and the Computational Humanities: Big Data, Scribes and the ‘Paris Bible’*. ARC Humanities Press, 2026\.  [https\://uplopen.com/books/m/10.1515/9781802704488](https://uplopen.com/books/m/10.1515/9781802704488).
+- Zaagsma, Gerben. "Digital History and the Politics of Digitization." DSH (2022): 1-22. [https://doi.org/10.1093/llc/fqac050](https://doi.org/10.1093/llc/fqac050)
