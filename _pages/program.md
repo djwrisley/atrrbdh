@@ -75,7 +75,7 @@ Discussion points: TBD
 
 ### Session 3: 
 
-**0830-1000: Visit to the [Bibliothèque d'étude et de conservation, Besançon](https://www.openstreetmap.org/relation/537364#map=17/47.235127/6.028737): From physical objects to digitized objects.** Discovery of institutional, non-digitized collections in different languages and a smartphone photo session.
+**0830-1000: Visit to the [Bibliothèque d'étude et de conservation, 1, rue de la Bibliothèque, Besançon](https://www.openstreetmap.org/relation/537364#map=17/47.235127/6.028737): From physical objects to digitized objects.** Discovery of institutional, non-digitized collections in different languages and a smartphone photo session.
 
 <div style="width:100%; height:75vh; min-height:200px;">
   <iframe
