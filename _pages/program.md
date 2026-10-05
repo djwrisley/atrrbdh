@@ -81,7 +81,7 @@ Discovery of institutional, non-digitized collections in different languages and
 
 <div style="width:100%; height:75vh; min-height:600px;">
   <iframe
-    src="https://www.openstreetmap.org/export/embed.html?bbox=6.0274%2C47.2346%2C6.0301%2C47.2357&amp;layer=mapnik&amp;relation=537364&amp;marker=47.235127%2C6.028737"
+    src="https://www.openstreetmap.org/export/embed.html?bbox=6.0274%2C47.2346%2C6.0301%2C47.2357&amp;layer=mapnik&amp;relation=537364&amp;marker=47.23639590345218%2C6.027819423292556"
     style="width:100%; height:100%; border:0; display:block;"
     loading="lazy"
     allowfullscreen>
