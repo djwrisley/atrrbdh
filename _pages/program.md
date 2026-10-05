@@ -77,10 +77,10 @@ Discussion points: TBD
 
 **0830-1000: Visit to the [Bibliothèque d'étude et de conservation, Besançon](https://www.openstreetmap.org/relation/537364#map=17/47.235127/6.028737): From physical objects to digitized objects.** Discovery of institutional, non-digitized collections in different languages and a smartphone photo session.
 
-<div style="width:75%; height:75vh; min-height:200px;">
+<div style="width:100%; height:75vh; min-height:200px;">
   <iframe
-    src="https://www.openstreetmap.org/export/embed.html?bbox=6.018%2C47.230%2C6.040%2C47.241&amp;layer=mapnik&amp;relation=537364"
-    style="width:100%; height:100%; border:0; display:block;"
+    src="https://www.openstreetmap.org/#map=19/47.236308/6.027187"
+    style="width:75%; height:50%; border:0; display:block;"
     loading="lazy"
     allowfullscreen>
   </iframe>
