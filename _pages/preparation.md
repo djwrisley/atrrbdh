@@ -14,6 +14,10 @@ We are looking forward to our time together 19-23 October 2026. We need you to d
 
 Please do this in advance of the first session. 
 
+**Background reading**
+
+Our suggestion for reading for the week is to take a look at the [new book on ATR](https://pub.uni-bielefeld.de/record/3017559) (Bielefeld UP) published open access by Schonhardt et al. 
+
 **Optional part:** 
 
 We will also be using eScriptorium to a lesser extent. It is open source, but requires you
@@ -27,13 +31,11 @@ If you are feeling ambitious and would like to try an open source HTR on your ow
 
 Using the UPenn tutorial was somewhat straightforward, requiring some debugging with chatGPT. 
 
-Here is how chatGPT summarized the issues, DJW encountered: 
+Here is how chatGPT summarized the issues DJW encountered: 
 
 _"The UPenn tutorial worked in broad terms, but there were several configuration/version mismatches with the current eScriptorium Docker images. On Apple Silicon, the images required AMD64 emulation; the web container’s health check was also broken because it called curl, which was not installed, and checked a /health endpoint that returned 404. In addition, nginx initially cached an incorrect Docker address for the web service, producing 502 Bad Gateway errors until nginx was restarted. Finally, Docker Desktop’s virtual disk filled up even though the Mac had ample free storage, causing PostgreSQL to enter a recovery loop and eScriptorium to return 500 errors; increasing Docker’s disk allocation resolved that issue."_
 
-**Background reading**
-
-Our suggestion for reading for the week is to take a look at the [new book on ATR](https://pub.uni-bielefeld.de/record/3017559) (Bielefeld UP) published open access by Schonhardt et al. 
+Yours might not be the same, but an LLM can be helpful for such debugging. 
 
 Looking forward to meeting you!
 
