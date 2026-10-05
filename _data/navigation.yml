@@ -7,5 +7,7 @@ main:
     url: /preparation/
   - title: "Resources"
     url: /resources/
+  - title: "Assignment"
+    url: /assignment/
   - title: "Tags"
     url: /tags/

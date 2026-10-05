@@ -57,6 +57,8 @@ Discussion points: What kinds of information do these sites contain? What format
 * Rescribe / Treventus / LLMs  
 * OLM / Transkribus
 
+Discussion points: TBD
+
 **1645-onward**: eScriptorium clinic : troubleshooting in setup and installation
 
 **Homework:**
@@ -88,6 +90,8 @@ Discussion points: What kinds of information do these sites contain? What format
 - Training data/ground truth  
 - Ground truth and its meaning for the humanities
 
+Discussion points: Which sources seen at the library are best suited to ATR? Why? 
+
 **1200-1400: Lunch** 
 
 ### Session 4: HTR Models and Transcription Guidelines
@@ -104,16 +108,19 @@ Discussion points: What kinds of information do these sites contain? What format
 - 10 transcriptions (Pages from several documents produced in different centuries/languages 
 - Models from eScriptorium, Transkribus super model, Transkribus public model “non-transformer,” eScriptorium, different LLMs) and discuss the results
 
+Discussion points: TBD
+
 **1545-1600: Break**
 
 **1600-1700: Hands-on with documents with Transkribus and/or eScriptorium**  
 Practice uploading, performing layout analysis, finding models, and HTR.
 
+**Homework:** Explore [Reviews in Digital Humanities](https://reviewsindh.pubpub.org/) to identify some kind cultural data and what digital scholarship does with it.  
+
+
 ## Day 3: Wednesday 21 October 2026
 
 **Summary of day 3:** This day focuses on how to train ATR models in Transkribus and eScriptorium for your own needs. It also addresses the question of LLM-based transcriptions and prompting strategies. It then asks how HTR outputs become computable objects, looking at examples of semantic annotation for mapping.
-
-**Homework:** Explore [Reviews in Digital Humanities](https://reviewsindh.pubpub.org/) to identify some kind cultural data and what digital scholarship does with it.   
 
 ### Session 5:
 
@@ -131,6 +138,8 @@ Practice uploading, performing layout analysis, finding models, and HTR.
 - Digital exhibits ([Wax](https://minicomp.github.io/wax/), [Collection Builder](https://collectionbuilder.github.io/))  
 - RAG   
 
+Discussion points: If you have ATR-created text, what kinds of post-processing do you anticipate for different kinds of digital scholarship?
+
 **1200-1400: Lunch** 
 
 ### Session 6: 
@@ -140,6 +149,9 @@ Practice uploading, performing layout analysis, finding models, and HTR.
 **1500-1515: Break**
 
 **1515-1700: Computable Objects II:** Human semantic tagging with Recogito of transcribed book on regional topics from the [Internet Archive](http://archive.org). Comparison with automatic tagging with NER. 
+
+Discussion points: How does human and machine tagging compare? What are issues that arise with ATR-created texts and tagging? 
+
 
 ## Day 4: Thursday 22 October 2026 
 
@@ -152,6 +164,8 @@ Practice uploading, performing layout analysis, finding models, and HTR.
 
 - Charles Weiss journals (using HTR’d using eScriptorium & scraped [printed edition](https://books.openedition.org/pufc/person/1347)) 
 - general discussion 
+
+Discussion points: How well does ATR-created text lend itself to computational forms of distant reading, such as classification with TF IDF? What difference does text quality make? 
 
 **1045-1100: Break**
 
