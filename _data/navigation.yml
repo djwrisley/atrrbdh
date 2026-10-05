@@ -1,6 +1,4 @@
 main:
-  - title: "Posts"
-    url: /posts/
   - title: "Program"
     url: /program/
   - title: "Preparation"
