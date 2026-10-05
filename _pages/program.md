@@ -39,6 +39,7 @@ See the week's learning outcomes [here]()
 * Gallica (BnF) ([example 1](https://gallica.bnf.fr/ark:/12148/bpt6k1187466x/f1.vertical#), [example 2](https://gallica.bnf.fr/ark:/12148/bpt6k6567155j))  
 * QDL ([handwritten](https://www.qdl.qa/en/search/site/IOR%252015), [typewritten](https://www.qdl.qa/en/archive/81055/vdc_100025648640.0x000006))
 * [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de/searchresults?isThumbnailFiltered=true&query=&viewType=list&rows=100&offset=0)
+* [Deutsche National Bibliothek Digital Collections](https://www.dnb.de/EN/Sammlungen/DigitaleSammlungen/dgitaleSammlungen_node.html)
 * [Digital Public Library of America](https://dp.la/)
 * [Europeana](https://www.europeana.eu/en)
 * [Arabic Collections Online](https://aco.dlib.nyu.edu/book/auc_aco000444/1)  
@@ -47,7 +48,7 @@ See the week's learning outcomes [here]()
 
 Discussion points: What kinds of information do these sites contain? What formats are they in? Why were they created? Can you relate them to Zaagsma (2022)?
 
-**Exercise #2 : Computable Objects I** :
+**Exercise #2 : Computable Objects I**
 
 ** Exercise with [Voyant Tools](https://beta.voyant-tools.org/) and general discussion on searchable text (ElKhatib and Ross, 2022) / Notebook: "Anatomy of a Word Cloud" ([posit.cloud](https://posit.cloud/))
 
@@ -113,9 +114,9 @@ Discussion points: Which sources seen at the library are best suited to ATR? Why
 - When to use frontier AI LLMs?
 - Is the gap between scholarly ATR and frontier AI closing?
 
-# Transcription guidelines and why they matter
+Transcription guidelines and why they matter
 
-**Exercise:** Transcription bias comparison
+**Exercise #3:** Transcription bias comparison
 
 - 10 transcriptions (Pages from several documents produced in different centuries/languages 
 - Models from eScriptorium, Transkribus super model, Transkribus public model “non-transformer,” eScriptorium, different LLMs) and discuss the results
@@ -127,7 +128,7 @@ Discussion points: TBD
 **1600-1700: Hands-on with documents with Transkribus and/or eScriptorium**  
 Practice uploading, performing layout analysis, finding models, and HTR.
 
-**Homework:** Explore [Reviews in Digital Humanities](https://reviewsindh.pubpub.org/) to identify some kind cultural data and what digital scholarship does with it.  
+**Homework:** Explore [Reviews in Digital Humanities](https://reviewsindh.pubpub.org/) to identify some kind cultural data and what digital scholarly outputs exist.  
 
 
 ## Day 3: Wednesday 21 October 2026
