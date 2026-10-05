@@ -1,4 +1,6 @@
 main:
+  - title: "Outcomes"
+    url: /outcomes/
   - title: "Program"
     url: /program/
   - title: "Preparation"

@@ -11,6 +11,9 @@ David Joseph Wrisley
 Master Rare Book and Digital Humanities, [UMLP](https://www.openstreetmap.org/node/13340610978#map=19/47.233729/6.025524), Besançon 2026
 
 
+See the week's learning outcomes [here]()
+
+
 ## Day 1: Monday 19 Oct 2026
 
 **Summary of day 1:** This first day introduces participants to each other and to the course, asking why searchable text matters for access, discovery and the study of cultural heritage materials. Through examples of OCR/HTR tools, platforms, digital collections, and hands-on exercises, it frames text recognition not only as a technical process but also as a question of infrastructure, sustainability, audience, access, and scholarly power.
@@ -34,7 +37,10 @@ Master Rare Book and Digital Humanities, [UMLP](https://www.openstreetmap.org/no
 
 * [Internet Archive](https://archive.org/details/lesoriginesdemon00mont/page/2/mode/2up)   
 * Gallica (BnF) ([example 1](https://gallica.bnf.fr/ark:/12148/bpt6k1187466x/f1.vertical#), [example 2](https://gallica.bnf.fr/ark:/12148/bpt6k6567155j))  
-* QDL ([handwritten](https://www.qdl.qa/en/search/site/IOR%252015), [typewritten](https://www.qdl.qa/en/archive/81055/vdc_100025648640.0x000006))  
+* QDL ([handwritten](https://www.qdl.qa/en/search/site/IOR%252015), [typewritten](https://www.qdl.qa/en/archive/81055/vdc_100025648640.0x000006))
+* [Deutsche Digitale Bibliothek](https://www.deutsche-digitale-bibliothek.de/searchresults?isThumbnailFiltered=true&query=&viewType=list&rows=100&offset=0)
+* [Digital Public Library of America](https://dp.la/)
+* [Europeana](https://www.europeana.eu/en)
 * [Arabic Collections Online](https://aco.dlib.nyu.edu/book/auc_aco000444/1)  
 * [Transkribus Sites](https://www.transkribus.org/sites)  
 * [CoMMA](https://comma.inria.fr/about) 
