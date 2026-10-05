@@ -79,12 +79,13 @@ Discussion points: TBD
 
 <div style="width:100%; height:75vh; min-height:200px;">
   <iframe
-    src="https://www.openstreetmap.org/#map=19/47.236308/6.027187"
+    src="https://www.openstreetmap.org/export/embed?bbox=6.026025116443635%2C47.23548583250866%2C6.029318869113923%2C47.23704292225994&amp;layer=mapnik&amp;marker=47.236264383103716%2C6.027671992778778"
     style="width:75%; height:50%; border:0; display:block;"
     loading="lazy"
     allowfullscreen>
   </iframe>
 </div>
+
 
 **1030-1100: Homework discussion**
 
