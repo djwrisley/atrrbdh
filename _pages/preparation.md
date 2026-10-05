@@ -3,9 +3,7 @@ permalink: /preparation/
 title: "Preparation"
 ---
 
-# Preparation for the Workshop: 
-
-Hello Participants in the Workshop, 
+# Hello Participants in the Workshop!
 
 We are looking forward to our time together 19-23 October 2026. We need you to do a make a couple accounts at : 
 
