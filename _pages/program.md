@@ -148,7 +148,10 @@ Practice uploading, performing layout analysis, finding models, and HTR.
 ### Session 7: 
 
 **900-1045: Computable Objects III:**   
-**Exercise:** TF-IDF classification of Weiss (using HTR’d using eScriptorium & scraped [printed edition](https://books.openedition.org/pufc/person/1347)) and discussion 
+**Exercise:** TF-IDF classification 
+
+- Charles Weiss journals (using HTR’d using eScriptorium & scraped [printed edition](https://books.openedition.org/pufc/person/1347)) 
+- general discussion 
 
 **1045-1100: Break**
 
