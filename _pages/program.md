@@ -71,7 +71,7 @@ Discussion points: TBD
 
 ## Day 2: Tuesday 20 October 2026
 
-**Summary of day 2:** This second day takes a glimpse into the “black box” of automated text recognition, demonstrating its constituent steps: layout analysis, segmentation, baseline detection, transcription guidelines, ground truth creation and alignment with digitized sources as well as post-correction and fine tuning. Through hands-on work with [Transkribus](https://www.transkribus.org/), [eScriptorium](http://www.escriptorium.org/), and LLMs, participants compare general and custom models while asking how language, script, period, institutional access, and bias shape what machines can and cannot, will and will not read.
+**Summary of day 2:** This second day takes a glimpse into the “black box” of automated text recognition, demonstrating its constituent steps: layout analysis, segmentation, baseline detection, transcription guidelines, ground truth creation and alignment with digitized sources as well as post-correction and fine tuning. Through hands-on work with [Transkribus](https://www.transkribus.org/), [eScriptorium](http://www.escriptorium.org/), and LLMs, participants compare general and custom models while asking how language, script, period, institutional access, technical ability and bias shape how we can make machines read.
 
 ### Session 3: 
 
