@@ -1,10 +1,13 @@
 ---
 permalink: /program/
 title: "Program"
+toc: true
+toc_label: "This week"
+toc_sticky: true
 ---
 
 
-# Critical Approaches to Automatic Text Recognition for the Digital Humanities 
+# Critical Approaches to Automatic Text Recognition for the Digital Humanities
 
 Estelle Guéville  
 David Joseph Wrisley  
@@ -29,7 +32,7 @@ Master Rare Book and Digital Humanities, [UMLP](https://www.openstreetmap.org/no
 
 **1200-1400 Lunch**
 
-### Session 2: Exploring digital collections and their transcriptions 
+### Session 2: Exploring digital collections and their transcriptions
 
 **1400-1530:**  Exercise #1:
 
@@ -48,7 +51,7 @@ Discussion points: What kinds of information do these sites contain? What format
 
 **Exercise #2 : Computable Objects I**
 
-** Exercise with [Voyant Tools](https://beta.voyant-tools.org/) and general discussion on searchable text (ElKhatib and Ross, 2022) / Notebook: "Anatomy of a Word Cloud" ([posit.cloud](https://posit.cloud/))
+**Exercise with [Voyant Tools](https://beta.voyant-tools.org/) and general discussion on searchable text (ElKhatib and Ross, 2022) / Notebook: "Anatomy of a Word Cloud" ([posit.cloud](https://posit.cloud/))**
 
 **1530-1545:** Break
 
@@ -78,7 +81,7 @@ Discussion points: TBD
 
 **Summary of day 2:** This second day takes a glimpse into the “black box” of automated text recognition, demonstrating its constituent steps: layout analysis, segmentation, baseline detection, transcription guidelines, ground truth creation and alignment with digitized sources as well as post-correction and fine tuning. Through hands-on work with [Transkribus](https://www.transkribus.org/), [eScriptorium](http://www.escriptorium.org/), and LLMs, participants compare general and custom models while asking how language, script, period, institutional access, technical ability and bias shape how we can make machines read.
 
-### Session 3: 
+### Session 3: Library visit and ATR workflows
 
 **0830-1000: Visit to the Bibliothèque d'étude et de conservation, 1, rue de la Bibliothèque, Besançon: From physical objects to digitized objects.** 
 
@@ -133,7 +136,7 @@ Practice uploading, performing layout analysis, finding models, and HTR.
 
 **Summary of day 3:** This day focuses on how to train ATR models in Transkribus and eScriptorium for your own needs. It also addresses the question of LLM-based transcriptions and prompting strategies. It then asks how HTR outputs become computable objects, looking at examples of semantic annotation for mapping.
 
-### Session 5:
+### Session 5: Training models and digital objects
 
 **9000-1000: Training models: examples, process and Hands on in Transkribus**
 
@@ -153,7 +156,7 @@ Discussion points: If you have ATR-created text, what kinds of post-processing d
 
 **1200-1400: Lunch** 
 
-### Session 6: 
+### Session 6: LLM transcription and semantic tagging
 
 **1400-1500: Try Gemini/Mistral-Vibe/chatGPT and prompting for transcription**
 
@@ -164,11 +167,11 @@ Discussion points: If you have ATR-created text, what kinds of post-processing d
 Discussion points: How does human and machine tagging compare? What are issues that arise with ATR-created texts and tagging? 
 
 
-## Day 4: Thursday 22 October 2026 
+## Day 4: Thursday 22 October 2026
 
 **Summary of day 4:** This day continues asking how HTR outputs become computable objects, looking at examples of TF-IDF and stylometry to show how machine-readable texts can become starting points for interpretation rather than final products. In the afternoon, students will reflect on how HTR, AI, and computational humanities are changing what gets transcribed, what gets counted, and how cultural heritage research can remain critical, inclusive, and accountable. Volunteers will then present their theses and get feedback.
 
-### Session 7: 
+### Session 7: Text analysis and wrap-up
 
 **900-1045: Computable Objects III:**   
 **Exercise:** TF-IDF classification 
@@ -182,15 +185,15 @@ Discussion points: How well does ATR-created text lend itself to computational f
 
 **1100-1200: Wrap-up and Questions** 
 
-### Session 8:  
+### Session 8: M2 research presentations
 
 **1400-1700: M2 Student Thesis Topic Presentations and Feedback**
 
-## Day 5: Friday 23 October 2026 
+## Day 5: Friday 23 October 2026
 
-### Session 9: 
+### Session 9: M2 research presentations and discussion
 
 **900-1200: M2 Student Thesis Topic Presentations, Feedback and General Discussion** 
 
 
-> Want to know how we build this site and how you can also make one to feature your thesis and professional work? Check out a post Wrisley uses with his students [here](https://daahnyuad.github.io/blog/creating-a-static-siteF26/). 
+> Want to know how we build this site and how you can also make one to feature your thesis and professional work? Check out a post Wrisley uses with his students [here](https://daahnyuad.github.io/blog/creating-a-static-siteF26/).

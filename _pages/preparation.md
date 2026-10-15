@@ -1,24 +1,25 @@
 ---
 permalink: /preparation/
 title: "Preparation"
+toc: true
+toc_label: "Before the workshop"
+toc_sticky: true
 ---
 
-# Hello Participants in the Workshop!
+We are looking forward to our time together on 19–23 October 2026.
 
-**Making accounts** 
+## Required accounts
 
-We are looking forward to our time together 19-23 October 2026. We need you to do a make a couple accounts at : 
+Please create accounts on these platforms before the first session:
 
 * [posit.cloud](https://login.posit.cloud/login?redirect=%2Foauth%2Fauthorize%3Fredirect_uri%3Dhttps%253A%252F%252Fposit.cloud%252Flogin%26client_id%3Dposit-cloud%26response_type%3Dcode%26show_auth%3D0&product=cloud)  
 * [Transkribus](https://www.transkribus.org/)
 
-Please do this in advance of the first session. 
-
-**Background reading**
+## Background reading
 
 Our suggestion for reading for the week is to take a look at the [new book on ATR](https://pub.uni-bielefeld.de/record/3017559) (Bielefeld UP) published open access by Schonhardt et al. 
 
-**Optional part:** 
+## Optional: install eScriptorium
 
 We will also be using eScriptorium to a lesser extent. It is open source, but requires you
 
@@ -29,7 +30,9 @@ We will also be using eScriptorium to a lesser extent. It is open source, but re
    
 If you are feeling ambitious and would like to try an open source HTR on your own computer, also get that started before the week begins. We will have a clinic one of the days for help doing that, but it is time consuming and technically more demanding. The clearest instructions for this are for a [Mac from UPenn](https://www.library.upenn.edu/rdds/work/escriptorium-mac).  If you have a PC or Linux, use the instructions for installing with [Docker from Github](https://github.com/UB-Mannheim/escriptorium/tree/develop).  
 
-Using the UPenn tutorial was somewhat straightforward, requiring some debugging with chatGPT. 
+### Installation notes and troubleshooting
+
+Using the UPenn tutorial was somewhat straightforward, requiring some debugging with ChatGPT.
 
 Here is how chatGPT summarized the issues DJW encountered: 
 

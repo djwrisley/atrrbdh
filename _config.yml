@@ -17,8 +17,6 @@ title: ATR @ RBDH
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   A workshop at the Rare Book and Digital Humanities at Université Marie et Louis Pasteur, Besançon, France.
-twitter_username: username
-github_username: username
 minimal_mistakes_skin: default
 search: true
 
@@ -27,8 +25,6 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 atom_feed:
@@ -95,7 +91,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -106,7 +102,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid

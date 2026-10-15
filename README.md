@@ -1,27 +1,22 @@
-# Minimal Mistakes remote theme starter
+# ATR @ RBDH
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+Course website for **Critical Approaches to Automatic Text Recognition for the Digital Humanities**, taught by Estelle Guéville and David Joseph Wrisley in Besançon, 19–23 October 2026.
 
-Contains basic configuration to get you a site with:
+Built with Jekyll and the Minimal Mistakes theme; hosted on GitHub Pages.
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+## Editing the site
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+- Course pages: `_pages/` (the homepage is `_pages/index.md`).
+- Navigation: `_data/navigation.yml`.
+- Site settings: `_config.yml`.
 
----
+## Local preview
 
-## Troubleshooting
+With Ruby and Bundler installed:
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+```sh
+bundle install
+bundle exec jekyll serve --baseurl /atrrbdh
+```
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+Open `http://localhost:4000/atrrbdh/`.

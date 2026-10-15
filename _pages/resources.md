@@ -3,9 +3,11 @@ permalink: /resources/
 title: "Resources"
 ---
 
-## Resources:
+## Zotero libraries
 
-**Zotero library:** We have put together a Zotero library [ATR\_HTR\_for\_DH](https://www.zotero.org/groups/6465155/atr_htr_for_dh) for the course that contains much more reading material. If you would like to contribute to it, sent a request from your account at Zotero. Other libraries put together by others on the subject include [ATR with LLM](https://www.zotero.org/groups/6308130/atr_with_llm), [ATR History](https://www.zotero.org/groups/5646174/atr_history).
+**Zotero library:** We have put together a Zotero library [ATR\_HTR\_for\_DH](https://www.zotero.org/groups/6465155/atr_htr_for_dh) for the course that contains much more reading material. If you would like to contribute to it, send a request from your account at Zotero. Other libraries put together by others on the subject include [ATR with LLM](https://www.zotero.org/groups/6308130/atr_with_llm), [ATR History](https://www.zotero.org/groups/5646174/atr_history).
+
+## Workshop bibliography
 
 Here are some publications we will refer to in the workshop. 
 
