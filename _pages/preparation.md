@@ -2,7 +2,7 @@
 permalink: /preparation/
 title: "Preparation"
 toc: true
-toc_label: "Before the workshop"
+toc_label: "Before the seminar"
 toc_sticky: true
 ---
 
