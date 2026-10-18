@@ -3,7 +3,7 @@ permalink: /outcomes/
 title: "Learning Outcomes"
 ---
 
-By the end of the workshop, participants will be able to:
+By the end of the seminar, participants will be able to:
 
 1. Explain the role of automatic text recognition (ATR) in transforming digitized cultural heritage materials into searchable, discoverable, and computationally tractable texts.
 2. Evaluate the suitability of different sources and ATR approaches according to material features, language, script, period, research goals, available infrastructure, and intended audiences.
