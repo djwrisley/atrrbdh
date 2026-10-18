@@ -11,17 +11,18 @@ toc_sticky: true
 
 Estelle Guéville  
 David Joseph Wrisley  
+Research Methodology Seminar
 Master Rare Book and Digital Humanities, [UMLP](https://www.openstreetmap.org/node/13340610978#map=19/47.233729/6.025524), Besançon 2026
 
 
 
 ## Day 1: Monday 19 Oct 2026
 
-**Summary of day 1:** This first day introduces participants to each other and to the course, asking why searchable text matters for access, discovery and the study of cultural heritage materials. Through examples of OCR/HTR tools, platforms, digital collections, and hands-on exercises, it frames text recognition not only as a technical process but also as a question of infrastructure, sustainability, audience, access, and scholarly power.
+**Summary of day 1:** This first day introduces participants to each other and to the seminar, asking why searchable text matters for access, discovery and the study of cultural heritage materials. Through examples of OCR/HTR tools, platforms, digital collections, and hands-on exercises, it frames text recognition not only as a technical process but also as a question of infrastructure, sustainability, audience, access, and scholarly power.
 
 ### Session 1: Introductory talk
 
-**1000-1200:** Introduction of course participants, beginning of course introduction 
+**1000-1200:** Introduction of seminar participants, beginning of seminar introduction 
 
 **Why searchable text?**
 
