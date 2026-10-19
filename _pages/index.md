@@ -9,6 +9,8 @@ Master Rare Book and Digital Humanities, [UMLP](https://www.openstreetmap.org/no
 **Estelle Guéville** · [estelle.gueville@yale.edu](mailto:estelle.gueville@yale.edu) · [Website](https://estellegueville.com/)<br>
 **David Joseph Wrisley** · [djw12@nyu.edu](mailto:djw12@nyu.edu) · [NYU Abu Dhabi profile](https://nyuad.nyu.edu/en/academics/divisions/arts-and-humanities/faculty/david-wrisley.html)
 
+[Link to the slides.](https://docs.google.com/presentation/d/10yC4e5YStuc4vdkxspIsxcUIwLUeIjdja0eZ01rsfj4/edit?usp=sharing)
+
 [Prepare for the research methodology seminar]({{ "/preparation/" | relative_url }}){: .btn .btn--primary}
 [View the programme]({{ "/program/" | relative_url }}){: .btn .btn--primary}
 
