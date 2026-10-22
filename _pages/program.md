@@ -24,6 +24,12 @@ Master Rare Book and Digital Humanities, [UMLP](https://www.openstreetmap.org/no
 
 **1000-1200:** Introduction of seminar participants, beginning of seminar introduction 
 
+**1200-1400 Lunch**
+
+### Session 2: Exploring digital collections and their transcriptions
+
+**1400-1530: Why searchable texts? Exploring digital collections and their transcriptions; Computable Objects I**
+
 **Why searchable text?**
 
 * Digitization of cultural heritage materials and access   
@@ -31,11 +37,7 @@ Master Rare Book and Digital Humanities, [UMLP](https://www.openstreetmap.org/no
 * Researcher: HTR as a Starting Point for Editing and Studying Texts  
 * Institutional: Discoverability 
 
-**1200-1400 Lunch**
-
-### Session 2: Exploring digital collections and their transcriptions
-
-**1400-1530:**  Exercise #1:
+**Exercise #1: Exploring digital collections and their transcriptions**
 
 * [Internet Archive](https://archive.org/details/lesoriginesdemon00mont/page/2/mode/2up)   
 * Gallica (BnF) ([example 1](https://gallica.bnf.fr/ark:/12148/bpt6k1187466x/f1.vertical#), [example 2](https://gallica.bnf.fr/ark:/12148/bpt6k6567155j))  
@@ -52,7 +54,7 @@ Discussion points: What kinds of information do these sites contain? What format
 
 **Exercise #2 : Computable Objects I**
 
-**Exercise with [Voyant Tools](https://beta.voyant-tools.org/) and general discussion on searchable text (ElKhatib and Ross, 2022) / Notebook: "Anatomy of a Word Cloud" ([posit.cloud](https://posit.cloud/))**
+**Exercise with [Voyant Tools](https://beta.voyant-tools.org/) and general discussion on searchable text (ElKhatib and Ross, 2022)**
 
 **1530-1545:** Break
 
@@ -80,11 +82,11 @@ Discussion points: TBD
 
 ## Day 2: Tuesday 20 October 2026
 
-**Summary of day 2:** This second day takes a glimpse into the “black box” of automated text recognition, demonstrating its constituent steps: layout analysis, segmentation, baseline detection, transcription guidelines, ground truth creation and alignment with digitized sources as well as post-correction and fine tuning. Through hands-on work with [Transkribus](https://www.transkribus.org/), [eScriptorium](http://www.escriptorium.org/), and LLMs, participants compare general and custom models while asking how language, script, period, institutional access, technical ability and bias shape how we can make machines read.
+**Summary of day 2:** This second day begins with a library visit, moving from physical objects to digitized objects. The afternoon takes a glimpse into the “black box” of automated text recognition through layout analysis, segmentation, baseline detection, and ground truth. Participants explore different kinds of ATR models and work hands-on with [Transkribus](https://www.transkribus.org/) and [eScriptorium](http://www.escriptorium.org/), asking how sources, languages, scripts, and access shape recognition choices.
 
-### Session 3: Library visit and ATR workflows
+### Session 3: Library visit
 
-**0830-1000: Visit to the Bibliothèque d'étude et de conservation, 1, rue de la Bibliothèque, Besançon: From physical objects to digitized objects.** 
+**1000-1200: Visit to the Bibliothèque d'étude et de conservation, 1, rue de la Bibliothèque, Besançon: From physical objects to digitized objects.**
 
 Discovery of institutional, non-digitized collections in different languages and a smartphone photo session.
 
@@ -94,9 +96,11 @@ Discovery of institutional, non-digitized collections in different languages and
   loading="lazy">
 </iframe>
 
-**1030-1100: Homework discussion**
+**1200-1400: Lunch**
 
-**1100-1200: ATR workflows - Transkribus & eScriptorium** 
+### Session 4: ATR workflows, models, and hands-on practice
+
+**1400-1500: ATR workflows - Transkribus & eScriptorium**
 
 - Discussion of your homework findings  
 - Layout analysis  
@@ -107,23 +111,10 @@ Discovery of institutional, non-digitized collections in different languages and
 
 Discussion points: Which sources seen at the library are best suited to ATR? Why? 
 
-**1200-1400: Lunch** 
-
-### Session 4: HTR Models and Transcription Guidelines
-
-**1400-1545: Different kinds of ATR models**  
+**1500-1545: Different kinds of ATR models**
 - Why use an ATR? (General/super models, bespoke models)
 - When to use frontier AI LLMs?
 - Is the gap between scholarly ATR and frontier AI closing?
-
-Transcription guidelines and why they matter
-
-**Exercise #3:** Transcription bias comparison
-
-- 10 transcriptions (Pages from several documents produced in different centuries/languages 
-- Models from eScriptorium, Transkribus super model, Transkribus public model “non-transformer,” eScriptorium, different LLMs) and discuss the results
-
-Discussion points: TBD
 
 **1545-1600: Break**
 
@@ -135,15 +126,26 @@ Practice uploading, performing layout analysis, finding models, and HTR.
 
 ## Day 3: Wednesday 21 October 2026
 
-**Summary of day 3:** This day focuses on how to train ATR models in Transkribus and eScriptorium for your own needs. It also addresses the question of LLM-based transcriptions and prompting strategies. It then asks how HTR outputs become computable objects, looking at examples of semantic annotation for mapping.
+**Summary of day 3:** This day examines transcription guidelines and model training, then explores how archival sources become digital objects and support different modes of digital scholarship. The afternoon addresses prompting for LLM-based transcription, post-correction, summarization, and other tasks, followed by semantic tagging with Recogito.
 
-### Session 5: Training models and digital objects
+### Session 5: Transcription guidelines, training models, and digital objects
 
-**9000-1000: Training models: examples, process and Hands on in Transkribus**
+**0900-1000: Transcription guidelines & training models**
 
-**1030-1045: Break**
+Training models: examples, process, and hands-on in Transkribus.
 
-**1045-1200: From archival sources to digital objects:** 
+Transcription guidelines and why they matter
+
+**Exercise #3:** Transcription bias comparison
+
+- 10 transcriptions (Pages from several documents produced in different centuries/languages
+- Models from eScriptorium, Transkribus super model, Transkribus public model “non-transformer,” eScriptorium, different LLMs) and discuss the results
+
+Discussion points: TBD
+
+**1000-1015: Break**
+
+**1015-1200: From archival sources to digital objects: modes of digital scholarship from text**
 
 - An HTR model & corresponding ground truth  
 - TEI encoded file(s) and digital editions  
@@ -159,42 +161,42 @@ Discussion points: If you have ATR-created text, what kinds of post-processing d
 
 ### Session 6: LLM transcription and semantic tagging
 
-**1400-1500: Try Gemini/Mistral-Vibe/chatGPT and prompting for transcription**
+**1400-1500: Try Gemini/Mistral-Vibe/ChatGPT and prompting for transcription; post-correction; summarization; other tasks**
 
 **1500-1515: Break**
 
-**1515-1700: Computable Objects II:** Human semantic tagging with Recogito of transcribed book on regional topics from the [Internet Archive](http://archive.org). Comparison with automatic tagging with NER. 
+**1515-1700: Computable Objects II: Semantic tagging with Recogito of transcribed cultural heritage collections**
+
+Human semantic tagging of a transcribed book on regional topics from the [Internet Archive](http://archive.org). Comparison with automatic tagging with NER.
 
 Discussion points: How does human and machine tagging compare? What are issues that arise with ATR-created texts and tagging? 
 
 
 ## Day 4: Thursday 22 October 2026
 
-**Summary of day 4:** This day continues asking how HTR outputs become computable objects, looking at examples of TF-IDF and stylometry to show how machine-readable texts can become starting points for interpretation rather than final products. In the afternoon, students will reflect on how HTR, AI, and computational humanities are changing what gets transcribed, what gets counted, and how cultural heritage research can remain critical, inclusive, and accountable. Volunteers will then present their theses and get feedback.
+**Summary of day 4:** This day connects research questions with computational approaches to transcribed texts, exploring word clouds, word embeddings, and TF-IDF classification. It asks how text quality and methodological choices shape interpretation. In the afternoon, M2 students present their thesis topics and receive feedback.
 
-### Session 7: Text analysis and wrap-up
+### Session 7: Research questions and text analysis
 
-**900-1045: Computable Objects III:**   
-**Exercise:** TF-IDF classification 
+**0900-0930: Introduction to Research Questions**
 
-- Charles Weiss journals (using HTR’d using eScriptorium & scraped [printed edition](https://books.openedition.org/pufc/person/1347)) 
-- general discussion 
+**0930-1045: Word Clouds and Word Embeddings**
 
-Discussion points: How well does ATR-created text lend itself to computational forms of distant reading, such as classification with TF IDF? What difference does text quality make? 
+Notebook: "Anatomy of a Word Cloud" ([posit.cloud](https://posit.cloud/)).
 
 **1045-1100: Break**
 
-**1100-1200: Wrap-up and Questions** 
+**1100-1200: Computable Objects III: TF-IDF classification**
+
+- Charles Weiss journals (HTR using eScriptorium & scraped [printed edition](https://books.openedition.org/pufc/person/1347))
+- General discussion
+
+Discussion points: How well does ATR-created text lend itself to computational forms of distant reading, such as classification with TF-IDF? What difference does text quality make?
+
+**1200-1400: Lunch**
 
 ### Session 8: M2 research presentations
 
 **1400-1700: M2 Student Thesis Topic Presentations and Feedback**
-
-## Day 5: Friday 23 October 2026
-
-### Session 9: M2 research presentations and discussion
-
-**900-1200: M2 Student Thesis Topic Presentations, Feedback and General Discussion** 
-
 
 > Want to know how we build this site and how you can also make one to feature your thesis and professional work? Check out a post Wrisley uses with his students [here](https://daahnyuad.github.io/blog/creating-a-static-siteF26/).
